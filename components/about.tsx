@@ -40,9 +40,9 @@ export default function About() {
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
         video games, watching movies, and i love to spend time with my friends. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently in 
-        {" "}
-        <span className="font-medium">grade 7 and 13 years old</span>. I'm also
+        <span className="font-medium">learning new things</span>. I am{" "}
+        <span className="font-medium">thirteen years old</span> and in{" "}
+        <span className="frot-medium">the seventh grade.</span>. I'm also
         learning how to play the guitar for Lixm, Miky and Abha.
       </p>
     </motion.section>
