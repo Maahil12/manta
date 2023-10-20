@@ -42,7 +42,7 @@ export default function About() {
         video games, watching movies, and i love to spend time with my friends. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am{" "}
         <span className="font-medium">thirteen years old</span> and in{" "}
-        <span className="frot-medium">the seventh grade.</span>. I'm also
+        <span className="frot-medium">the seventh grade.</span> I'm also
         learning how to play the guitar for Lixm, Miky and Abha.
       </p>
     </motion.section>
